@@ -55,7 +55,7 @@
 //    Console.WriteLine("სიმბოლოების რაოდენობა; " + raodenoba);
 //    Console.WriteLine("დიდი ასოებით: " + saxeli.ToUpper());
 //    Console.WriteLine("პატარა ასოებით: " + saxeli.ToLower());
-//    Console.WriteLine("შეიცავს a-ს: " + saxeli,("Contains", "a-true"));
+//    Console.WriteLine("შეიცავს a-ს: " + saxeli.Contains("a"));
 
 
 
